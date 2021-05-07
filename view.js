@@ -1,3 +1,6 @@
 var vm = new Vue({
-    el: "#index"
+    el: "#index",
+    data: {
+        teste: 'teste'
+    }
 })
